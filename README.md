@@ -371,6 +371,6 @@ CareBridge_System/
 
 Developed as part of the **CareBridge System Initiative** to advance public healthcare interoperability, rapid emergency response, and Ayushman Bharat Digital Mission (ABDM) integration.
 
-- **Repository**: [https://github.com/MOULEESHWARAN-S31/CareBridge_System](https://github.com/MOULEESHWARAN-S31/CareBridge_System)
-- **Maintainer**: MOULEESHWARAN S ([@MOULEESHWARAN-S31](https://github.com/MOULEESHWARAN-S31))
+- **Repository**: https://github.com/monikasriav1411-byte/CareBridge
+- **Maintainer**: Monikasri A V
 - **License**: MIT License
